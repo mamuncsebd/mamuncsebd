@@ -1,4 +1,28 @@
-### Hi there 👋
+Hi, I am Abdullah Al Mamun, Welcome to my profile!
+--------------------------------------------------
+<h3>Visit my Portfolio: <a href="https://www.linkedin.com/in/mamuncsebd/">https://www.linkedin.com/in/mamuncsebd/</a></h3>
+<blockquote>
+<p>Senior Software Developer,<br>
+Graduated from Chittagong University of Engineering and Technology, Chittagong, Bangladesh <br>
+Full-stack Developer, Freelancer <br>
+IT Consultants Limited, Dhaka, Bangladesh.</p>
+</blockquote>
+
+<p>This is Abdullah Al Mamun. I am a Full-Stack developer having 11 years of experience in this field of developing & designing websites. I have completed my graduation on B.Sc. in Computer Science & Engineering from Chittagong University of Engineering and Technology (CUET).<p>
+  
+<h3>Tech Stacks, I explored:</h3>
+<pre>{
+   "languages": ["PHP", "C", "C++", "Java"],
+   "backend": ["Laravel","Codeigniter", "CakePHP"],
+   "frontend": ["Bootstrap", "css"],
+   "database": ["mySQL", "Oracle"],
+   "devOps": ["Docker"],
+   "graphics": ["Adobe Illustrator", "Adobe Photoshop"],
+   "CMS": ["Wordpress", "Joomla", "Magento"],
+   "freelancing": ["Website", "Graphics Stuffs"] 
+}</pre>
+  
+  
 
 <!--
 **mamuncsebd/mamuncsebd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
