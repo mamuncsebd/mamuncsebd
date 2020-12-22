@@ -14,11 +14,12 @@ IT Consultants Limited, Dhaka, Bangladesh.</p>
 <pre>{
    "languages": ["PHP", "C", "C++", "Java"],
    "backend": ["Laravel","Codeigniter", "CakePHP"],
-   "frontend": ["Bootstrap", "css"],
-   "database": ["mySQL", "Oracle"],
-   "devOps": ["Docker"],
-   "graphics": ["Adobe Illustrator", "Adobe Photoshop"],
+   "frontend": ["Bootstrap", "CSS","Javascript","jQuery","Angularjs", "React"],
+   "database": ["mySQL", "Oracle"],  
    "CMS": ["Wordpress", "Joomla", "Magento"],
+   "API": ["REST", "SOAP"],
+   "devOps": ["Docker"],   
+   "graphics": ["Adobe Illustrator", "Adobe Photoshop"],
    "freelancing": ["Website", "Graphics Stuffs"] 
 }</pre>
   
