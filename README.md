@@ -18,7 +18,8 @@ IT Consultants Limited, Dhaka, Bangladesh.</p>
    "database": ["mySQL", "Oracle"],  
    "CMS": ["Wordpress", "Joomla", "Magento"],
    "API": ["REST", "SOAP"],
-   "devOps": ["Docker"],   
+   "devOps": ["Docker"],  
+   "Version Control Tools": ["git", "SVN"]
    "graphics": ["Adobe Illustrator", "Adobe Photoshop"],
    "freelancing": ["Website", "Graphics Stuffs"] 
 }</pre>
